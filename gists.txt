@@ -1,1 +1,5 @@
+Consulta da Música:
 https://gist.github.com/mycelo/3d42fe7f697a8d2d612dfba48c706436
+
+Código ServiceImpl:
+https://gist.github.com/mycelo/c0e4c0861c8ec060af37f0bbb308cc59
