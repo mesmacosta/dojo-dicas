@@ -9,3 +9,6 @@ https://gist.github.com/mycelo/37f4ef6732bcd9d35f5b7b05de2e4702
 
 Consulta da Playlist:
 https://gist.github.com/mycelo/68437ddb7162104d10dfd9f393b0ec51
+
+Validação Request Param:
+https://gist.github.com/mycelo/976e78de08909b791473f3cb44768d95
