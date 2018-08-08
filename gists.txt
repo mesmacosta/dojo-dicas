@@ -3,3 +3,9 @@ https://gist.github.com/mycelo/3d42fe7f697a8d2d612dfba48c706436
 
 Código ServiceImpl:
 https://gist.github.com/mycelo/c0e4c0861c8ec060af37f0bbb308cc59
+
+Exemplo de como utilizar o RestTemplate:
+https://gist.github.com/mycelo/37f4ef6732bcd9d35f5b7b05de2e4702
+
+Consulta da Playlist:
+https://gist.github.com/mycelo/68437ddb7162104d10dfd9f393b0ec51
