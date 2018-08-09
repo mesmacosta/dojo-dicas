@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: loadbalancerconsumer
+  cloud:
+    config:
+      uri: http://localhost:8000
+  output:
+    ansi:
+      enabled: always

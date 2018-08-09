@@ -1,0 +1,36 @@
+server:
+  port: 8000 
+  application:
+    name: configserver 
+    
+---
+    
+spring:
+  profiles: default
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/mycelo/configuracoes    
+  output:
+    ansi:
+      enabled: always
+environment: defaut      
+
+---
+
+spring:
+  profiles: local
+  application:
+    name: configserver 
+  cloud:
+    config:
+      server:
+       git:
+          uri: file:///C:\\itau\\git\\dojo\\configuracoes
+  output:
+    ansi:
+      enabled: always
+environment: local
+      
+
